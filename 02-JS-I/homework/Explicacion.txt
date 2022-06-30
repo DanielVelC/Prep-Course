@@ -1,0 +1,7 @@
+Variables: Lugares dónde almacenar los juguetes para usarlos luego.
+Strings: Bloques de texto.
+Funciones (argumentos, return): Las funciones son objetos que indican acciones y retornan un valor para ser usado en lo 
+				que se necesite.
+Declaraciones if: Es una declaración condicional en la que si se cumple la condición (verdadera o falsa) retorna lo que
+		  necesitemos.
+Valores booleanos (true, false): Indican si la bombilla está encendida o apagada. 1 o 0.
