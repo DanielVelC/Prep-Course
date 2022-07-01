@@ -1,0 +1,4 @@
+For: Es un objeto en el cual ponemos una condición que siempre que se cumpla ejecutará el código en loop, una vez se deje de cumplir la condición pasa a lo siguiente.
+&& AND evalúa si dos condiciones se cumplen y retorna true, si una de ellas o ambas no se cumplen retornará como resultado false
+|| OR evalúa si una de las condiciones se cumple y retorna true, si ninguna se cumple retornará como resultado false
+! NOT niega la expresión haciendo que lo que retorne sea el resultado contrario, si es true retorna false y viceversa
