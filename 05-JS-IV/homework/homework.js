@@ -98,6 +98,7 @@ function verificarPassword (usuario, password) {
   }
   else{
     return false;
+    
   }
 }
 
