@@ -1,6 +1,13 @@
-         
+body {
+    background-image: url('https://png.pngtree.com/background/20210712/original/pngtree-tartan-plaid-background-pattern-in-elegant-dark-red-picture-image_1183135.jpg');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+ 
 h1 {
-    color: red;
+    color: white;
 }
 
 img {
@@ -9,15 +16,23 @@ img {
 }
 
 #thirdDiv {
+    /*display: block;
+    position: absolute;
+    left: 35%;*/
     height: 600px;
     width: 500px;
     background-color: grey;
     padding: 50px;
-    border: 10px solid purple;
+    border: 10px solid green;
 }
 
 #spanID {
     font-size: 18px;
     margin: 50px;
+    /*text-align: center;*/
 }
 
+.divClass {
+    text-align: center;
+    color: white;
+}
